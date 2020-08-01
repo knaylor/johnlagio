@@ -3,7 +3,7 @@ import React from 'react';
 const StackedCard = (props: any) => {
   const { detailText, image, text, title } = props;
   return (
-    <div className="max-w-sm rounded overflow-hidden shadow-lg">
+    <div className="max-w-sm rounded overflow-hidden shadow-lg sm:mb-4 md:mb-4">
       <img className="w-full h-auto" src={image} alt={title} />
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">{title}</div>
