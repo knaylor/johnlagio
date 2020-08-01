@@ -8,7 +8,7 @@ import StackedCard from "./stackedCard"
 
 const Food = () => {
   return (
-    <div className="container mx-auto flex flex-col justify-around pb-8 lg:flex-row xl:flex-row">
+    <div className="flex flex-col pb-8 lg:flex-row lg:justify-between lg:w-full xl:flex-row xl:justify-between xl:w-full">
       <StackedCard
         detailText="freshveg"
         image={garden}

@@ -38,7 +38,7 @@ function App() {
     <div className="container mx-auto flex flex-col">
       <Banner className="" />
       <Navigation page={page} updatePage={updatePage} />
-      <div className="container flex">
+      <div className="container flex justify-center lg:justify-around xl:justify-around">
         {view}
       </div>
     </div>
