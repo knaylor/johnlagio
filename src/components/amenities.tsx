@@ -8,7 +8,7 @@ import StackedCard from "./stackedCard";
 
 const Ammenities = () => {
   return (
-    <div className="container mx-auto flex justify-around pb-8 sm:flex-col md:flex-col lg:flex-row xl:flex-row">
+    <div className="container mx-auto flex flex-col justify-around pb-8 lg:flex-row xl:flex-row">
       <StackedCard
         detailText="chilltime"
         image={pool01}
