@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/johnlagio/static/css/main.9b78c49a.chunk.css",
+    "main.js": "/johnlagio/static/js/main.435ea98a.chunk.js",
+    "main.js.map": "/johnlagio/static/js/main.435ea98a.chunk.js.map",
+    "runtime-main.js": "/johnlagio/static/js/runtime-main.130881fb.js",
+    "runtime-main.js.map": "/johnlagio/static/js/runtime-main.130881fb.js.map",
+    "static/js/2.0fdfc70c.chunk.js": "/johnlagio/static/js/2.0fdfc70c.chunk.js",
+    "static/js/2.0fdfc70c.chunk.js.map": "/johnlagio/static/js/2.0fdfc70c.chunk.js.map",
+    "index.html": "/johnlagio/index.html",
+    "precache-manifest.a032bb93e18ae44bf49bb21040013902.js": "/johnlagio/precache-manifest.a032bb93e18ae44bf49bb21040013902.js",
+    "service-worker.js": "/johnlagio/service-worker.js",
+    "static/css/main.9b78c49a.chunk.css.map": "/johnlagio/static/css/main.9b78c49a.chunk.css.map",
+    "static/js/2.0fdfc70c.chunk.js.LICENSE.txt": "/johnlagio/static/js/2.0fdfc70c.chunk.js.LICENSE.txt",
+    "static/media/decorations_01.jpeg": "/johnlagio/static/media/decorations_01.57628f43.jpeg",
+    "static/media/firepit-dusk.jpeg": "/johnlagio/static/media/firepit-dusk.539ee7b8.jpeg",
+    "static/media/food_01.jpeg": "/johnlagio/static/media/food_01.651a0eea.jpeg",
+    "static/media/garden.jpeg": "/johnlagio/static/media/garden.7e7fe7a2.jpeg",
+    "static/media/grill.jpeg": "/johnlagio/static/media/grill.2f1f9868.jpeg",
+    "static/media/hammock.jpeg": "/johnlagio/static/media/hammock.bf321bc7.jpeg",
+    "static/media/johnlagio.jpeg": "/johnlagio/static/media/johnlagio.52c1ce14.jpeg",
+    "static/media/management.jpeg": "/johnlagio/static/media/management.52bb5c1e.jpeg",
+    "static/media/pool_01.jpeg": "/johnlagio/static/media/pool_01.bb92d4a5.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.130881fb.js",
+    "static/js/2.0fdfc70c.chunk.js",
+    "static/css/main.9b78c49a.chunk.css",
+    "static/js/main.435ea98a.chunk.js"
+  ]
+}
